@@ -1,3 +1,15 @@
+## Install Node, NPM (NVM for MacOsx & Linode)
+
+- For Windows:
+  https://blog.teamtreehouse.com/install-node-js-npm-windows
+
+- For Linux & MacOsx
+
+  https://yoember.com/nodejs/the-best-way-to-install-node-js/
+
+  On mac osx you will need to install the latest xcode from the app store prior to
+  following the above instructions
+
 ## Introduction to Node & NPM
 
 - Create a simple 'hello world' server
